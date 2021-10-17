@@ -24,7 +24,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       body: Center(
         child: Image.asset(
-          "assets/micu_isologo.png",
+          "assets/logo-mobile.png",
           height: 100,
           fit: BoxFit.contain,
         ),

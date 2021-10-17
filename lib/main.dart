@@ -13,7 +13,7 @@ class MicUApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Mic U',
+      title: 'afantü',
       
       debugShowCheckedModeBanner: false,
       initialRoute: '/',
